@@ -5,15 +5,12 @@ example
 # Description
 example
 # Table of Contents 
-- [Project Title](#project-title)
-- [Description](#description)
-- [Table of Contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Contact Information](#contact-information)
+* [Installation](#-Installation)
+* [Usage](#-Usage)
+* [License](#-Installation)
+* [Contributing](#-Contributing)
+* [Tests](#-Tests)
+* [Questions](#-Contact-Information)
     
 # Installation
 example

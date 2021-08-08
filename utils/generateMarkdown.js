@@ -1,4 +1,4 @@
-//function to generate the markdown
+//Function to generate the markdown
 function generateMarkdown(data) {
     return `
 # Project Title
@@ -31,5 +31,5 @@ ${data.tests}
 `;
 }
 
-//need to export the generateMarkdown function 
+//Export the generateMarkdown function 
 module.exports = generateMarkdown;

@@ -32,7 +32,7 @@ function validateInput(value) {
     if (value != "") {
         return true;
     } else {
-        return "Please answer the question with some kind on input.";
+        return "Please answer the given question.";
     }
 }
 
