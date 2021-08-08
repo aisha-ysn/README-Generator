@@ -1,6 +1,6 @@
 # README Generator
 
-A good readme file lets the user know uyur motivation for building the projects, what issues it solves, the different features it has and what you've learnt. This generator makes it easy for users to create the perfect readme by just answering a few questions.
+A good readme file lets the user know your motivation for building the projects, what issues it solves, the different features it has and what you've learnt. This generator makes it easy for users to create the perfect readme by just answering a few questions.
 
 # Table of Contents 
   - [Command Line](#command-line)
