@@ -24,11 +24,11 @@ As this is a command-line application it will not be deployed, so here's a <a hr
 ## Installation
 Getting started make sure you have node.js and npm installed on your system.
 
-* 1) Clone this repository using ' git clone https://github.com/aisha-ysn/README-Generator.git '
-* 2) Navigate to the directory of cloned repository the terminal.
-* 3) Install required npm modules by running npm install in the terminal.
-* 4) Use ' node index.js ' to start the readme generator.
-* 5) Answer the questions that are asked.
+1. Clone this repository using ' git clone https://github.com/aisha-ysn/README-Generator.git '
+2. Navigate to the directory of cloned repository the terminal.
+3. Install required npm modules by running npm install in the terminal.
+4. Use ' node index.js ' to start the readme generator.
+5. Answer the questions that are asked.
 
 ## User Story
 
