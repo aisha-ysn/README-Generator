@@ -1,14 +1,24 @@
 {
-    "name": "static-site",
+    "name": "read",
     "version": "1.0.0",
-    "description": "",
+    "description": "A high-quality README file explains what your application does and why you used the technologies that you did. At a bare minimum, a README needs a title and a short description explaining the what, why, and how of the project.",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aisha-ysn/README-Generator.git"
+    },
+    "keywords": [],
     "author": "",
     "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/aisha-ysn/README-Generator/issues"
+    },
+    "homepage": "https://github.com/aisha-ysn/README-Generator#readme",
     "dependencies": {
-        "inquirer": "^6.3.1"
+        "inquire": "^0.4.8",
+        "inquirer": "^7.3.3"
     }
 }
