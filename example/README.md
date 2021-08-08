@@ -1,28 +1,28 @@
 
 # Project Title
 example
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 # Description
 example
 # Table of Contents 
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Contact Information](#contact-information)
+* [Installation](#-Installation)
+* [Usage](#-Usage)
+* [License](#-Installation)
+* [Contributing](#-Contributing)
+* [Tests](#-Tests)
+* [Questions](#-Contact-Information)
     
-## Installation
+# Installation
 example
-## Usage
+# Usage
 example
-## License 
-N/A
+# License 
+Apache 2.0
 * Use the contact information below to ask for license to be added. 
-## Contributing 
+# Contributing 
 example
-## Tests
+# Tests
 example
-## Contact Information 
+# Contact Information 
 * GitHub Username: example
 * Contact Email: example@gmail.com
