@@ -19,7 +19,7 @@ node index.js
 ```
 
 ## Usage 
-As this is a command-line application it will not be deployed, so here's a <a href="add vid" target="_blank">link</a> that shows a walkthrough  demonstrating the functionality of my application.
+As this is a command-line application it will not be deployed, so here's a <a href="https://drive.google.com/file/d/1alBJCu3-IQhENbwJ00QL6T8nTdb3YD9I/view" target="_blank">link</a> that shows a walkthrough  demonstrating the functionality of my application.
 
 ## Installation
 Getting started make sure you have node.js and npm installed on your system.
