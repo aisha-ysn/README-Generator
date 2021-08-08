@@ -5,24 +5,29 @@ example
 # Description
 example
 # Table of Contents 
-* [Installation](#-Installation)
-* [Usage](#-Usage)
-* [License](#-Installation)
-* [Contributing](#-Contributing)
-* [Tests](#-Tests)
-* [Questions](#-Contact-Information)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Contact Information](#contact-information)
     
-# Installation
+## Installation
 example
-# Usage
+
+## Usage
 example
-# License 
+
+## License 
 Apache 2.0
 * Use the contact information below to ask for license to be added. 
-# Contributing 
+* 
+## Contributing 
 example
-# Tests
+
+## Tests
 example
-# Contact Information 
+
+## Contact Information 
 * GitHub Username: example
 * Contact Email: example@gmail.com
