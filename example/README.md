@@ -5,24 +5,24 @@ example
 # Description
 example
 # Table of Contents 
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Contact Information](#contact-information)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Contact Information](#contact-information)
     
-# Installation
+## Installation
 example
-# Usage
+## Usage
 example
-# License 
+## License 
 N/A
 * Use the contact information below to ask for license to be added. 
-# Contributing 
+## Contributing 
 example
-# Tests
+## Tests
 example
-# Contact Information 
+## Contact Information 
 * GitHub Username: example
 * Contact Email: example@gmail.com
