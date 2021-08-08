@@ -17,7 +17,7 @@ example
 ## Usage
 example
 ## License 
-N/A
+Apache 2.0
 * Use the contact information below to ask for license to be added. 
 ## Contributing 
 example
